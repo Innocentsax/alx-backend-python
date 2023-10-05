@@ -1,0 +1,1 @@
+# Solutions to tasks on Python - Variable Annotations
